@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L06\02_FindNext\bin\Debug\netcoreapp2.1\02_FindNext.deps.json
+C:\C#\MyProjectBase\L06\02_FindNext\bin\Debug\netcoreapp2.1\02_FindNext.runtimeconfig.json
+C:\C#\MyProjectBase\L06\02_FindNext\bin\Debug\netcoreapp2.1\02_FindNext.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L06\02_FindNext\bin\Debug\netcoreapp2.1\02_FindNext.dll
+C:\C#\MyProjectBase\L06\02_FindNext\bin\Debug\netcoreapp2.1\02_FindNext.pdb
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.AssemblyInfo.cs
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.dll
+C:\C#\MyProjectBase\L06\02_FindNext\obj\Debug\netcoreapp2.1\02_FindNext.pdb
