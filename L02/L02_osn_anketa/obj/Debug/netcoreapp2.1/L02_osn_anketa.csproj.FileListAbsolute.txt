@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L02\L02_osn_anketa\bin\Debug\netcoreapp2.1\L02_osn_anketa.deps.json
+C:\C#\MyProjectBase\L02\L02_osn_anketa\bin\Debug\netcoreapp2.1\L02_osn_anketa.runtimeconfig.json
+C:\C#\MyProjectBase\L02\L02_osn_anketa\bin\Debug\netcoreapp2.1\L02_osn_anketa.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L02\L02_osn_anketa\bin\Debug\netcoreapp2.1\L02_osn_anketa.dll
+C:\C#\MyProjectBase\L02\L02_osn_anketa\bin\Debug\netcoreapp2.1\L02_osn_anketa.pdb
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.AssemblyInfo.cs
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.dll
+C:\C#\MyProjectBase\L02\L02_osn_anketa\obj\Debug\netcoreapp2.1\L02_osn_anketa.pdb

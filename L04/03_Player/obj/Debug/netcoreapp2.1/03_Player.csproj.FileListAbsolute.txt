@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L04\03_Player\bin\Debug\netcoreapp2.1\03_Player.deps.json
+C:\C#\MyProjectBase\L04\03_Player\bin\Debug\netcoreapp2.1\03_Player.runtimeconfig.json
+C:\C#\MyProjectBase\L04\03_Player\bin\Debug\netcoreapp2.1\03_Player.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L04\03_Player\bin\Debug\netcoreapp2.1\03_Player.dll
+C:\C#\MyProjectBase\L04\03_Player\bin\Debug\netcoreapp2.1\03_Player.pdb
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.AssemblyInfo.cs
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.dll
+C:\C#\MyProjectBase\L04\03_Player\obj\Debug\netcoreapp2.1\03_Player.pdb

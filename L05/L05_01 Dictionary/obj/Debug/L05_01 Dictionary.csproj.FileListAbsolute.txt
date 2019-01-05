@@ -1,0 +1,14 @@
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.exe.config
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.exe
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.pdb
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.csprojAssemblyReference.cache
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.csproj.CoreCompileInputs.cache
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.exe
+D:\C#_SBond\Projects\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.pdb
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.exe.config
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.exe
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\bin\Debug\L05_01 Dictionary.pdb
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.exe
+C:\C#\MyProjectBase\L05\L05_01 Dictionary\obj\Debug\L05_01 Dictionary.pdb

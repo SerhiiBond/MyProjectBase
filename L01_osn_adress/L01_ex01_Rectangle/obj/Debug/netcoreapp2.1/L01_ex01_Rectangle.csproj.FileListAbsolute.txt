@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\bin\Debug\netcoreapp2.1\L01_ex01_Rectangle.deps.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\bin\Debug\netcoreapp2.1\L01_ex01_Rectangle.runtimeconfig.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\bin\Debug\netcoreapp2.1\L01_ex01_Rectangle.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\bin\Debug\netcoreapp2.1\L01_ex01_Rectangle.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\bin\Debug\netcoreapp2.1\L01_ex01_Rectangle.pdb
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.AssemblyInfo.cs
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex01_Rectangle\obj\Debug\netcoreapp2.1\L01_ex01_Rectangle.pdb

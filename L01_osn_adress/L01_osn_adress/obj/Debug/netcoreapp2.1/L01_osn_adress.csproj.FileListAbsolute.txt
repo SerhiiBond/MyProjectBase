@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\bin\Debug\netcoreapp2.1\L01_osn_adress.deps.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\bin\Debug\netcoreapp2.1\L01_osn_adress.runtimeconfig.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\bin\Debug\netcoreapp2.1\L01_osn_adress.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\bin\Debug\netcoreapp2.1\L01_osn_adress.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\bin\Debug\netcoreapp2.1\L01_osn_adress.pdb
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.AssemblyInfo.cs
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_osn_adress\obj\Debug\netcoreapp2.1\L01_osn_adress.pdb

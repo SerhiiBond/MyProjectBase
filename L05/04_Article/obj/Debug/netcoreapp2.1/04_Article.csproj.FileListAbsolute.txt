@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L05\04_Article\bin\Debug\netcoreapp2.1\04_Article.deps.json
+C:\C#\MyProjectBase\L05\04_Article\bin\Debug\netcoreapp2.1\04_Article.runtimeconfig.json
+C:\C#\MyProjectBase\L05\04_Article\bin\Debug\netcoreapp2.1\04_Article.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L05\04_Article\bin\Debug\netcoreapp2.1\04_Article.dll
+C:\C#\MyProjectBase\L05\04_Article\bin\Debug\netcoreapp2.1\04_Article.pdb
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.AssemblyInfo.cs
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.dll
+C:\C#\MyProjectBase\L05\04_Article\obj\Debug\netcoreapp2.1\04_Article.pdb

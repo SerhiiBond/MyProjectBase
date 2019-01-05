@@ -1,0 +1,11 @@
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.csprojAssemblyReference.cache
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.csproj.CoreCompileInputs.cache
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.AssemblyInfoInputs.cache
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.AssemblyInfo.cs
+C:\Users\sbond\source\repos\L04\L04_Document\bin\Debug\netcoreapp2.1\L04_Document.deps.json
+C:\Users\sbond\source\repos\L04\L04_Document\bin\Debug\netcoreapp2.1\L04_Document.runtimeconfig.json
+C:\Users\sbond\source\repos\L04\L04_Document\bin\Debug\netcoreapp2.1\L04_Document.runtimeconfig.dev.json
+C:\Users\sbond\source\repos\L04\L04_Document\bin\Debug\netcoreapp2.1\L04_Document.dll
+C:\Users\sbond\source\repos\L04\L04_Document\bin\Debug\netcoreapp2.1\L04_Document.pdb
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.dll
+C:\Users\sbond\source\repos\L04\L04_Document\obj\Debug\netcoreapp2.1\L04_Document.pdb

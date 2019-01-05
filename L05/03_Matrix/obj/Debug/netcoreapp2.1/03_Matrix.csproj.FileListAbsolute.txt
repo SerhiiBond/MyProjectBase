@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L05\03_Matrix\bin\Debug\netcoreapp2.1\03_Matrix.deps.json
+C:\C#\MyProjectBase\L05\03_Matrix\bin\Debug\netcoreapp2.1\03_Matrix.runtimeconfig.json
+C:\C#\MyProjectBase\L05\03_Matrix\bin\Debug\netcoreapp2.1\03_Matrix.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L05\03_Matrix\bin\Debug\netcoreapp2.1\03_Matrix.dll
+C:\C#\MyProjectBase\L05\03_Matrix\bin\Debug\netcoreapp2.1\03_Matrix.pdb
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.AssemblyInfo.cs
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.dll
+C:\C#\MyProjectBase\L05\03_Matrix\obj\Debug\netcoreapp2.1\03_Matrix.pdb

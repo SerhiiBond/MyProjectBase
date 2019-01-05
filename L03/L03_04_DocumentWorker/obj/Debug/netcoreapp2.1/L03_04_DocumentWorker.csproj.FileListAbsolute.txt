@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\bin\Debug\netcoreapp2.1\L03_04_DocumentWorker.deps.json
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\bin\Debug\netcoreapp2.1\L03_04_DocumentWorker.runtimeconfig.json
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\bin\Debug\netcoreapp2.1\L03_04_DocumentWorker.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\bin\Debug\netcoreapp2.1\L03_04_DocumentWorker.dll
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\bin\Debug\netcoreapp2.1\L03_04_DocumentWorker.pdb
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.AssemblyInfo.cs
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.dll
+C:\C#\MyProjectBase\L03\L03_04_DocumentWorker\obj\Debug\netcoreapp2.1\L03_04_DocumentWorker.pdb

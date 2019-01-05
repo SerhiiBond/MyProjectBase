@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\bin\Debug\netcoreapp2.1\L01_ex02_Book.deps.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\bin\Debug\netcoreapp2.1\L01_ex02_Book.runtimeconfig.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\bin\Debug\netcoreapp2.1\L01_ex02_Book.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\bin\Debug\netcoreapp2.1\L01_ex02_Book.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\bin\Debug\netcoreapp2.1\L01_ex02_Book.pdb
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.AssemblyInfo.cs
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex02_Book\obj\Debug\netcoreapp2.1\L01_ex02_Book.pdb

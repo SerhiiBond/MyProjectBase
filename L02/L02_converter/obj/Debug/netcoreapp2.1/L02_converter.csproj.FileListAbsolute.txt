@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L02\L02_converter\bin\Debug\netcoreapp2.1\L02_converter.deps.json
+C:\C#\MyProjectBase\L02\L02_converter\bin\Debug\netcoreapp2.1\L02_converter.runtimeconfig.json
+C:\C#\MyProjectBase\L02\L02_converter\bin\Debug\netcoreapp2.1\L02_converter.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L02\L02_converter\bin\Debug\netcoreapp2.1\L02_converter.dll
+C:\C#\MyProjectBase\L02\L02_converter\bin\Debug\netcoreapp2.1\L02_converter.pdb
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.AssemblyInfo.cs
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.dll
+C:\C#\MyProjectBase\L02\L02_converter\obj\Debug\netcoreapp2.1\L02_converter.pdb

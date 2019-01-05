@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.AssemblyInfo.cs
+C:\C#\MyProjectBase\L02\L02_03_Employee\bin\Debug\netcoreapp2.1\L02_03_Employee.deps.json
+C:\C#\MyProjectBase\L02\L02_03_Employee\bin\Debug\netcoreapp2.1\L02_03_Employee.runtimeconfig.json
+C:\C#\MyProjectBase\L02\L02_03_Employee\bin\Debug\netcoreapp2.1\L02_03_Employee.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L02\L02_03_Employee\bin\Debug\netcoreapp2.1\L02_03_Employee.dll
+C:\C#\MyProjectBase\L02\L02_03_Employee\bin\Debug\netcoreapp2.1\L02_03_Employee.pdb
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.dll
+C:\C#\MyProjectBase\L02\L02_03_Employee\obj\Debug\netcoreapp2.1\L02_03_Employee.pdb

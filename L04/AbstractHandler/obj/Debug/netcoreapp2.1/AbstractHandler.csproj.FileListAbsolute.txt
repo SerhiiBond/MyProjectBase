@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L04\AbstractHandler\bin\Debug\netcoreapp2.1\AbstractHandler.deps.json
+C:\C#\MyProjectBase\L04\AbstractHandler\bin\Debug\netcoreapp2.1\AbstractHandler.runtimeconfig.json
+C:\C#\MyProjectBase\L04\AbstractHandler\bin\Debug\netcoreapp2.1\AbstractHandler.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L04\AbstractHandler\bin\Debug\netcoreapp2.1\AbstractHandler.dll
+C:\C#\MyProjectBase\L04\AbstractHandler\bin\Debug\netcoreapp2.1\AbstractHandler.pdb
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.AssemblyInfo.cs
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.dll
+C:\C#\MyProjectBase\L04\AbstractHandler\obj\Debug\netcoreapp2.1\AbstractHandler.pdb

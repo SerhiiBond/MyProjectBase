@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\bin\Debug\netcoreapp2.1\L03_03_Vehicle.deps.json
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\bin\Debug\netcoreapp2.1\L03_03_Vehicle.runtimeconfig.json
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\bin\Debug\netcoreapp2.1\L03_03_Vehicle.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\bin\Debug\netcoreapp2.1\L03_03_Vehicle.dll
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\bin\Debug\netcoreapp2.1\L03_03_Vehicle.pdb
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.AssemblyInfo.cs
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.dll
+C:\C#\MyProjectBase\L03\L03_03_Vehicle\obj\Debug\netcoreapp2.1\L03_03_Vehicle.pdb

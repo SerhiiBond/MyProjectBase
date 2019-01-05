@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\bin\Debug\netcoreapp2.1\L01_ex04_Figure.deps.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\bin\Debug\netcoreapp2.1\L01_ex04_Figure.runtimeconfig.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\bin\Debug\netcoreapp2.1\L01_ex04_Figure.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\bin\Debug\netcoreapp2.1\L01_ex04_Figure.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\bin\Debug\netcoreapp2.1\L01_ex04_Figure.pdb
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.AssemblyInfo.cs
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.dll
+C:\C#\MyProjectBase\L01_osn_adress\L01_ex04_Figure\obj\Debug\netcoreapp2.1\L01_ex04_Figure.pdb

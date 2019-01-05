@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\bin\Debug\netcoreapp2.1\L03_02_ClassRoom.deps.json
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\bin\Debug\netcoreapp2.1\L03_02_ClassRoom.runtimeconfig.json
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\bin\Debug\netcoreapp2.1\L03_02_ClassRoom.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\bin\Debug\netcoreapp2.1\L03_02_ClassRoom.dll
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\bin\Debug\netcoreapp2.1\L03_02_ClassRoom.pdb
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.AssemblyInfo.cs
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.dll
+C:\C#\MyProjectBase\L03\L03_02_ClassRoom\obj\Debug\netcoreapp2.1\L03_02_ClassRoom.pdb
