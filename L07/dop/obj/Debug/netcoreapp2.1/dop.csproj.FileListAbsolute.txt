@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L07\dop\bin\Debug\netcoreapp2.1\dop.deps.json
+C:\C#\MyProjectBase\L07\dop\bin\Debug\netcoreapp2.1\dop.runtimeconfig.json
+C:\C#\MyProjectBase\L07\dop\bin\Debug\netcoreapp2.1\dop.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L07\dop\bin\Debug\netcoreapp2.1\dop.dll
+C:\C#\MyProjectBase\L07\dop\bin\Debug\netcoreapp2.1\dop.pdb
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.AssemblyInfo.cs
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.dll
+C:\C#\MyProjectBase\L07\dop\obj\Debug\netcoreapp2.1\dop.pdb
