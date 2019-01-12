@@ -16,5 +16,15 @@ namespace _01_Train
             this.numberOfTrain = numberOfTrain;
             this.timeDeparture = timeDeparture;
         }
+
+        public int NumberOfTrain
+        {
+            get { return numberOfTrain; }
+        }
+
+        public string Info()
+        {
+            return ("Номер поезда: " + numberOfTrain + "Пункт назначения: " + destination + "Время отправления: "+ timeDeparture);
+        }
     }
 }
