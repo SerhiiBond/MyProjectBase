@@ -7,19 +7,33 @@ namespace _01_Train
     class Timetable
     {
         int countTrain;
-        Train[] timeTable = new Train[8];
+        Train[] timeTable = new Train[0];
         Train train;
-        public Timetable (string destination, int numberOfTrain, string timeDeparture)
-        {
-            train = new Train(destination, numberOfTrain, timeDeparture);
-        }
+        //public Timetable (string destination, int numberOfTrain, string timeDeparture)
+        //{
+          //  train = new Train(destination, numberOfTrain, timeDeparture);
+        //}
 
         public void AddTrain(string destination, int numberOfTrain, string timeDeparture)
         {
             train = new Train(destination, numberOfTrain, timeDeparture);
-            if (countTrain < timeTable.Length)
+            if (countTrain < 8)
             {
-                timeTable[countTrain] = train;
+                Train[] tmpTimeTable = new Train[timeTable.Length + 1];
+                //int j = 0;
+                for (int i = 0; i < timeTable.Length; i++)
+                {
+                    if (train.NumberOfTrain < timeTable[i].NumberOfTrain || timeTable[i].NumberOfTrain == 0)
+                    {
+                        tmpTimeTable[i] = train;
+                    }
+                    else
+                    {
+                        tmpTimeTable[i+1] = timeTable[i];
+                    }
+                    
+                }
+                timeTable = tmpTimeTable;
             }
             else
             {
@@ -29,6 +43,9 @@ namespace _01_Train
 
         public void ShowTimeTable()
         {
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine("| № поезда  |    Назначение    |  Отправление  |");
+            Console.WriteLine("----------------------------------------------");
             for (int i = 0; i < timeTable.Length; i++)
             {
                 if (timeTable[i].NumberOfTrain != 0)
@@ -37,7 +54,8 @@ namespace _01_Train
                 }
                 else
                 {
-                    Console.WriteLine(timeTable[i].Info());
+                    Console.WriteLine("|{0,10} | {1,16} |{2,15}|",timeTable[i].NumberOfTrain,timeTable[i].Destination,timeTable[i].TimeDeparture);
+//                    Console.WriteLine("|{0} | {1} |{2}|", timeTable[i].NumberOfTrain, timeTable[i].Destination, timeTable[i].TimeDeparture);
                 }
             }
         }

@@ -1,0 +1,11 @@
+C:\C#\MyProjectBase\L07\01_Train\bin\Debug\netcoreapp2.1\01_Train.deps.json
+C:\C#\MyProjectBase\L07\01_Train\bin\Debug\netcoreapp2.1\01_Train.runtimeconfig.json
+C:\C#\MyProjectBase\L07\01_Train\bin\Debug\netcoreapp2.1\01_Train.runtimeconfig.dev.json
+C:\C#\MyProjectBase\L07\01_Train\bin\Debug\netcoreapp2.1\01_Train.dll
+C:\C#\MyProjectBase\L07\01_Train\bin\Debug\netcoreapp2.1\01_Train.pdb
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.csprojAssemblyReference.cache
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.csproj.CoreCompileInputs.cache
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.AssemblyInfoInputs.cache
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.AssemblyInfo.cs
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.dll
+C:\C#\MyProjectBase\L07\01_Train\obj\Debug\netcoreapp2.1\01_Train.pdb

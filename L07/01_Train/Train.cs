@@ -22,6 +22,15 @@ namespace _01_Train
             get { return numberOfTrain; }
         }
 
+        public string Destination
+        {
+            get { return destination; }
+        }
+        public string TimeDeparture
+        {
+            get { return timeDeparture; }
+        }
+
         public string Info()
         {
             return ("Номер поезда: " + numberOfTrain + "Пункт назначения: " + destination + "Время отправления: "+ timeDeparture);
